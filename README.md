@@ -1,47 +1,34 @@
 # Project Name
-> Outline a brief description of your project.
+ Leading club case study for loan dataset 
 
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
+## Table of Contents (as per powerpoint presentation)
+*1.Objectives
+2. Approach 
+3, EDA graphs and analysis 
+4 Result - the conclusion of the analysis
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+When the income increases reduces the loan defaulters .And  loan defaulters are observed with low income , 
+
+Charged off loans increases when the applicant has prior bankruptcy 
+
+The loans for small business almost 26% are charged off and become risky 
+
+Approx 75% of the total loans are given for duration of 3 years and other 25% of the loans are those given for 5 years. The charged off for term 1 year  is 45%  so the higher tenure of loan lesser chance of charged off 
+
+Percentage of charged off loans increases substantially as the loan amount increases.Higher loan  has a risk of defaulters 
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
+## Team members 
+1. Vaishnavi Kanagaraj 
+2. Harish
 Created by [@githubusername] - feel free to contact me!
 
 
