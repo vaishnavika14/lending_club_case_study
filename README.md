@@ -29,7 +29,7 @@ Percentage of charged off loans increases substantially as the loan amount incre
 ## Team members 
 1. Vaishnavi Kanagaraj 
 2. Harish
-Created by [@githubusername] - feel free to contact me!
+
 
 
 <!-- Optional -->
