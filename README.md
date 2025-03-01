@@ -1,5 +1,8 @@
-# Leading club case study 
- Leading club case study for loan dataset 
+#  Leading club case study for loan dataset 
+
+## Team members 
+1. Vaishnavi Kanagaraj 
+2. Harish
 
 
 ## Table of Contents (as per powerpoint presentation)
@@ -12,6 +15,7 @@
 
 
 ## Conclusions
+
 When the income increases reduces the loan defaulters .And  loan defaulters are observed with low income , 
 
 Charged off loans increases when the applicant has prior bankruptcy 
@@ -26,9 +30,6 @@ Percentage of charged off loans increases substantially as the loan amount incre
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Team members 
-1. Vaishnavi Kanagaraj 
-2. Harish
 
 
 
