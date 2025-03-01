@@ -1,15 +1,14 @@
 #  Leading club case study for loan dataset 
-
 ## Team members 
 1. Vaishnavi Kanagaraj 
 2. Harish
 
 
-## Table of Contents (as per powerpoint presentation)
-*1.Objectives
-2. Approach 
-3, EDA graphs and analysis 
-4 Result - the conclusion of the analysis
+## Table of Contents (as per powerpoint presentation) \n
+1.Objectives \n
+2. Approach  \n
+3, EDA graphs and analysis \n
+4 Result - the conclusion of the analysis \n
 <!-- You can include any other section that is pertinent to your problem -->
 
 
